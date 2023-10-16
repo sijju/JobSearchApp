@@ -8,6 +8,9 @@
       "expo-router"
     ],
     "name": "expoapp",
-    "slug": "expoapp"
+    "slug": "expoapp",
+    "android": {
+      "package": "com.anonymous.expoapp"
+    }
   }
 }
